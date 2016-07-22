@@ -6,6 +6,6 @@ The source code is an implementation of the financial news hallucination made in
 ## Usage
 
 Train the network using the instruction at the **[PennTreebank example](PennTreebank)**.
-The data and config are included in this project to ease the setup process.
+The data and config are included in the \PennTreebank\ folder to ease the setup process.
 
 Once the model has finished training, you just need to compile the application and run the program.
