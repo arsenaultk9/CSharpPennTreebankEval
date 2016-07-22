@@ -8,6 +8,6 @@ The source code is an implementation of the financial news hallucination made in
 Train the network using the instruction at the **[PennTreebank example](PennTreebank)**.
 The data and config are included in the \PennTreebank\ folder to ease the setup process.
 
-Must use the 1.5 version of cntk binaries for project to work. -> https://github.com/Microsoft/CNTK/releases/tag/v1.5
+Note: Must use the 1.5 version of cntk binaries for project to work. -> https://github.com/Microsoft/CNTK/releases/tag/v1.5
 
 Once the model has finished training, you just need to compile the application and run the program.
